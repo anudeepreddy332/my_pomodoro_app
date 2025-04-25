@@ -1,0 +1,10 @@
+echo "*.iml
+.idea/
+*.xml
+__pycache__/
+dist/
+build/
+*.spec
+*.pyc
+.venv/
+*.DS_Store" > .gitignore
